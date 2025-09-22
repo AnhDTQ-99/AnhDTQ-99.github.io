@@ -1,0 +1,26 @@
+#loginError {
+    display: none;
+}
+
+/* LOGIN SECTION */
+#loginSection {
+    max-width: 480px;
+    margin: 5% auto;
+}
+
+/* APP SECTION */
+#appSection {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* WELCOME USER TEXT */
+#welcomeUser {
+    color: #6c757d;
+    margin-right: 1rem;
+}
+
+/* TABLE */
+#studentTableBody tr td {
+    vertical-align: middle;
+}

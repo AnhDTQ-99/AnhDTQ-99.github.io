@@ -1,0 +1,14 @@
+/* body { background-color: black; }
+.navbar, .card, .table, .alert, .form-control, .btn { border-radius: .6rem; }
+.card { background: #111827; border: 1px solid #1f2937; color: white;}
+.table { color: #e2e8f0; }
+.table thead th { color: #cbd5e1; border-bottom-color: #334155; }
+.table tbody tr { border-color: #1f2937; }
+.form-control, .form-select { background: #0b1220; color: #e2e8f0; border-color: #334155; }
+.form-control:focus { border-color: #60a5fa; box-shadow: 0 0 0 .2rem rgba(96,165,250,.25); }
+.alert { background: #0b1220; border-color: #334155; }
+.text-muted { color: #94a3b8 !important; }
+.badge { border-radius: 999px; }
+a { color: #93c5fd; }
+.pagination .page-link { background: #0b1220; color: #e2e8f0; border-color: #334155; }
+.pagination .page-link:focus { box-shadow: 0 0 0 .2rem rgba(96,165,250,.25); } */
